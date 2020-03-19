@@ -7,3 +7,4 @@ The below figure shows the depth of bug dependency graph in Mozilla project for 
     <script data-plotly="hadijahanshahi:1" sharekey-plotly="8cjt9ui39Lj2otHc98RkyB" src="https://plot.ly/embed.js" async></script>
 </div>
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~hadijahanshahi/1.embed"></iframe>
